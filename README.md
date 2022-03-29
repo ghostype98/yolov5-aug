@@ -257,7 +257,13 @@ We love your input! We want to make contributing to YOLOv5 as easy and transpare
 
 <a href="https://github.com/ultralytics/yolov5/graphs/contributors"><img src="https://opencollective.com/ultralytics/contributors.svg?width=990" /></a>
 
+在ultralytics/yolov5 基础上增加了CIoU， CBAM， Soft-NMS
+We added the module of CIoU,CBAM and Soft-NMS  based on ultralytics/yolov5 ,
 
+details in CSDN
+训练与改进细节
+
+https://blog.csdn.net/ghostype/article/details/121993101
 ## <div align="center">Contact</div>
 
 For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github.com/ultralytics/yolov5/issues). For business inquiries or
