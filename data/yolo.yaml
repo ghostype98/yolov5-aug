@@ -1,0 +1,7 @@
+train: data/trainval.txt
+val: data/test.txt
+test: data/test.txt
+
+# Classes
+nc: 4  # number of classes
+names: ['defect_0', 'defect_1', 'defect_2', 'defect_3']
